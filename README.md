@@ -1,4 +1,4 @@
-## The Jeffrey Epstein Documents: Named Entity Search
+## The Jeffrey Epstein Documents — Named Entity Search
 
 By: Shirsho Dasgupta (2023)
 
